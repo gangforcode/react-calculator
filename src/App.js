@@ -25,11 +25,11 @@ function App() {
 
   return (
     <>
-      {/* <div className="header">
+      <div className="header">
       <a href="https://gangforcode.com/" target="_blank" rel="noreferrer noopener" class="button-style">
           Back to Tutorial
         </a>
-      </div> */}
+      </div>
       <div className="calculator">
         <div className="display">{input}</div>
         <div className="keypad">
